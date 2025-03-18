@@ -29,8 +29,8 @@
 ### Установка
 - Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/price-parser-bot.git
-cd price-parser-bot
+git clone https://github.com/rusov63/Parsing_TGbot.git
+cd Parsing_TGbot
 ```
 - Создайте и активируйте виртуальное окружение:
 ```bash
@@ -97,3 +97,7 @@ Excel-файл должен содержать следующие столбцы
 
 ## Контакты
 Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной по адресу: [rusov63@yahoo.com]
+
+![screen.png](screen.png)
+
+![screen2.png](screen2.png)
